@@ -12,7 +12,7 @@
 	margin:20px;
 }
 
-.container>p{
-	font-size:20px;
-	font-weight:bolder;
+p{
+	text-align:right;
+	font-style:italic;
 }
